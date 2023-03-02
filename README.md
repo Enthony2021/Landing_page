@@ -6,7 +6,6 @@ Totalmente Responsiva (Desktop e Mobile), com menu oculto para mobile.
 <a href="https://landingpageenthony.netlify.app/"> Link do deploy <- Clique Aqui</a> 
 
 Confira algumas imagens abaixo
-<container style="max-width: 500px">
   <img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/landingpage1.jpg"></img>
   <p>---</p>
   <img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/landingpage2.jpg"></img>
@@ -15,4 +14,3 @@ Confira algumas imagens abaixo
   <p>---</p>
   <img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/landingpage4.jpg"></img>
   <img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/landingpage5.jpg"></img>
-</container>
