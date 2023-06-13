@@ -3,6 +3,9 @@
 Landing Page construida no Curso de <a href="https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/" target="_blank">Curso de JavaScript e TypeScript do básico ao avançado</a> pela Udemy Academy para aplicar os conhecimentos de HTML e CSS.
 Totalmente Responsiva (Desktop e Mobile), com menu oculto para mobile.
 
+## Tecnologias usadas neste projeto:
+HTML5 (semântico) | CSS3
+
 <a href="https://landingpageenthony.netlify.app/"> Link do deploy <- Clique Aqui</a> 
 
 Confira algumas imagens abaixo
