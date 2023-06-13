@@ -7,10 +7,7 @@ Totalmente Responsiva (Desktop e Mobile), com menu oculto para mobile.
 HTML5 (semântico) | CSS3
 
 ## Estrutura de Diretórios:
- <p></p>
- <p>assets</p>
-  <p></p> 
-  <p>img ==> contém os arquivos de imagens usados</p>
+
 <pre>
  index.html --> Estrutura HTML do Projeto
  > assets   
