@@ -20,7 +20,7 @@ HTML5 (semântico) | CSS3
 2. Para executar, abra o arquivo <b>index.html</b> no navegador ou utilize a extenção <b>Live Server</b> do VS CODE no mesmo arquivo.
 
 ## Link Deploy - Veja o Projeto!
-<a href="https://landingpageenthony.netlify.app/"> Link do deploy <- Clique Aqui</a>
+<a href="https://landingpageenthony.netlify.app/" target="_blank"> Link do deploy <- Clique Aqui</a>
 
 Confira algumas imagens abaixo
   <img src="https://raw.githubusercontent.com/Enthony2021/imagens_dos_projetos/main/landingpage1.jpg"></img>
